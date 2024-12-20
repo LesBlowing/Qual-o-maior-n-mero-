@@ -1,0 +1,6 @@
+Olá! Esse daqui é um projeto do curso que eu faço sobre Python. Aqui, a ideia é trabalhar com comandos if, else, elif.
+O projeto consiste em ver qual número é o maior. O usuário insere três números e, ao final, será mostrado qual dos três corresponde o maior entre eles.
+
+---------------EXPERIÊNCIA NA MONTAGEM DO PROJETO---------------
+Ao montar toda a parte de programação, pude perceber como é importante se atentar na hora de indentar cada parte do jeito certo e prestar muita atenção na leitura do erro e onde ele está dando problema. Me peguei me esquecendo em alguns momentos de fechar a palavra-chave "else" com os dois pontos (:). Com isso, pude perceber como, às vezes, pequenos erros de digitação podem prejudicar o funcionamento do código (que na verdade nem rodou). Outro ponto que me fez pensar bastante é a ordem lógica do raciocínio matemático para que o resultado saia como esperado e aplicá-lo no Python.
+O importante é ir testando à cada mudança para conseguir chegar no que é condizente com o projeto!
